@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <!--START_SECTION:waka-->
 
 ```text
