@@ -7,6 +7,7 @@
 
 [![Ash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyash&theme=blue-green)](https://github.com/sillyash/github-readme-stats)
 
+[![GitHub Commit Activity (Week)](https://img.shields.io/github/commit-activity/w/sillyash/sillyash)](https://https://discord.com/sillyash)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 [![GitHub followers](https://img.shields.io/github/followers/sillyash.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sillyash?tab=followers)
