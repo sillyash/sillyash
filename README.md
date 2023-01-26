@@ -1,7 +1,8 @@
 ## Ash's Profile:
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)  
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 [![Ash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyash&theme=blue-green)](https://github.com/sillyash/github-readme-stats)
 
