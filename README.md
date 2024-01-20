@@ -9,7 +9,7 @@
 
 I'm currently a student of Orsay's IUT (from Paris-Saclay university), and I study Computer Science! I've also studied CompSci in Highschool.
 
-I've learned a lot of Python, HTML and CSS. I cover the basics of C++.
+I've learned a lot of Python, HTML and CSS. I cover the basics of C and C++.
 
 [![Ash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyash&theme=blue-green)](https://github.com/sillyash/github-readme-stats)
 
