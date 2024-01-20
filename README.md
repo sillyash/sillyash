@@ -27,7 +27,7 @@ Frontend is quite fun, but I really like backend. However, if I could, I'd choos
 
 I've done some SQL and CDM/Database construction, but I'm not the most interested in this right now.
 
-When it comes to my cultural IT beliefs, I would say I'm an Open Source and Free Software lover, but I love to participate in anything, really! I'm both a Windows and GNU/Linux user, and I try to keep up with security and privacy when it comes to technology.
+When it comes to my IT culture, I would say I'm an Open Source and Free Software lover, but I love to participate in anything, really! I'm both a Windows and GNU/Linux user, and I try to keep up with security and privacy when it comes to technology.
 
 <br>
 
