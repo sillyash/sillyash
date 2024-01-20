@@ -37,7 +37,7 @@ Concerning the OS I use, I use GNU/linux daily on my laptop (I change between Li
 
 <br>
 
-![image](https://gists-readme.yizack.com/api?user=sillyash)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sillyash)
 
 <br><br>
 
