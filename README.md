@@ -1,7 +1,7 @@
 ![](header.png)
 
 | My tools      | My languages  | My languages (web) | My OS's       | My collaboration tools |
-| ------------- | ------------- | ------------------ | ------------- | ---------------------- |
+| :-----------: | :-----------: | :----------------: | :-----------: | :--------------------: |
 | ![image](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)  | ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | ![image](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  | ![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) |
 | ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
@@ -11,7 +11,7 @@ I'm currently a student of Orsay's IUT (from Paris-Saclay university), and I stu
 
 I'm a french native speaker, but I'm as fluent in English, sometimes even better in english when it comes to IT.
 
-I've learned a lot of ***Python***, ***HTML*** and ***CSS***. I cover the basics of ***C and C++***.
+I've learned a lot of ***Python***, ***HTML*** and ***CSS***. I cover the basics of ```C``` and ```C++```.
 
 I'm currently learning ***Java***, ***TypeScript***, ***WebAssembly***, ***React***, ***Rust*** and ***Carbon***.
 
@@ -39,6 +39,6 @@ Concerning the OS I use, I use GNU/linux daily on my laptop (I change between Li
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sillyash)
 
-<br><br>
+<br>
 
 If you have any questions or inquiries, contact me directly on GitHub !
