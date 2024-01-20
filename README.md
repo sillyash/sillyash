@@ -9,7 +9,11 @@
 
 I'm currently a student of Orsay's IUT (from Paris-Saclay university), and I study Computer Science! I've also studied CompSci in Highschool.
 
-I've learned a lot of Python, HTML and CSS. I cover the basics of C and C++.
+I'm a french native speaker, but I'm as fluent in English, sometimes even better in english when it comes to IT.
+
+I've learned a lot of ***Python***, ***HTML*** and ***CSS***. I cover the basics of ***C and C++***.
+
+I'm currently learning ***Java***, ***TypeScript***, ***WebAssembly***, ***React***, ***Rust*** and ***Carbon***.
 
 [![Ash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyash&theme=blue-green)](https://github.com/sillyash/github-readme-stats)
 
@@ -17,9 +21,9 @@ I've learned a lot of Python, HTML and CSS. I cover the basics of C and C++.
 
 <br>
 
-I'm currently learning ***Java***, ***TypeScript***, ***WebAssembly***, ***React***, ***Rust*** and ***Carbon***.
+As you probably seen, I'm a curious adventutrer when it comes to languages, and I want to try them all before I finish my studies. I'm a fast learner and I've noticed that it gets easier the more I learn.
 
-As you probably seen, I'm a curious adventutrer when it comes to languages, and I want to try them all before I finish my studies. Of course, I'm not aiming to be a very good or expert developer in all of these languages, but learning the basics of a lot of languages might help me figure out which ones I want to work with in the long term.
+Of course, I'm not aiming to be a very good or expert developer in all of these languages, but learning the basics of a lot of languages might help me figure out which ones I want to work with in the long term.
 
 I'm getting quite good using C++ and it's libraries, but I'm not sure that's the language I want to use forever. It is really fast, tough!
 
@@ -28,6 +32,8 @@ Frontend is quite fun, but I really like backend. However, if I could, I'd choos
 I've done some SQL and CDM/Database construction, but I'm not the most interested in this right now.
 
 When it comes to my IT culture, I would say I'm an Open Source and Free Software lover, but I love to participate in anything, really! I'm both a Windows and GNU/Linux user, and I try to keep up with security and privacy when it comes to technology.
+
+Concerning the OS I use, I use GNU/linux daily on my laptop (I change between Linux ditros regularly) and Windows on my desktop at home. I'm a shell user on all the OS i use, especially Linux, so I'm comfortable using whatever shell or terminal.
 
 <br>
 
