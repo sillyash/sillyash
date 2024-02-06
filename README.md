@@ -1,4 +1,7 @@
-![](header.png)
+# Hi, I'm Ashley!
+
+
+## Introduction
 
 | My tools      | My languages  | My languages (web) | My OS's       | My collaboration tools |
 | :--------------: | :--------------: | :----------------: | :----------------: | :--------------------: |
@@ -19,7 +22,8 @@ I'm currently learning ```Java``` ```JavaScript``` and  ```C++```
 
 *Be aware that these statistics don't take most of my private and current projects, as well as what I've studied into account: the large quantity of Python in this chart is mostly due to Highschool projects.*
 
-<br>
+
+## About me
 
 As you have probably seen, I'm a curious person when it comes to languages, and I want to try a lot of them before I finish my studies. I'm a fast learner and I've noticed that it gets easier the more I learn.
 
