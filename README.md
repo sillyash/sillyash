@@ -11,7 +11,7 @@ I'm currently a student of Orsay's IUT (from Paris-Saclay university), and I stu
 
 I'm a french native speaker, but I'm as fluent in English, sometimes even better in english when it comes to IT.
 
-I've learned a lot of ***Python***, ***HTML*** and ***CSS***. I cover the basics of ```C``` and ```C++```.
+I've learned a lot of ***Python***, ***HTML*** and ***CSS***. I cover the basics of ```C++```.
 
 I'm currently learning ***Java***, ***TypeScript***, ***WebAssembly***, ***React***, ***Rust*** and ***Carbon***.
 
