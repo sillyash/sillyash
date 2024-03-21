@@ -1,5 +1,4 @@
-# Hi, I'm Ashley!
-
+![title](./banner.png)
 
 ## Introduction
 
