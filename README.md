@@ -36,9 +36,9 @@ I've done a lot of ```SQL``` and ```CDM/Database``` construction for school proj
 
 When it comes to my IT culture, I would say I encourage and like Open Source and Free Software a lot, but I love to participate in anything, really.
 
-I'm both a Windows and GNU/Linux user, and I try to keep up with security and privacy when it comes to technology: that's why I'm using ```Kali``` and ```Arch/Manjuaro```.
+I'm both a Windows and GNU/Linux user, and I try to keep up with security and privacy when it comes to technology: that's why I'm using ```Kali``` and ```Arch/Manjaro```.
 
-Concerning the OS I use, I use GNU/linux daily on my laptop (I change and dual boot between Linux ditros regularly). I use Windows on my desktop at home. I'm a shell user on all the OS i use, especially Linux, so I'm comfortable using whatever shell or terminal.
+Concerning the OS I use, I use GNU/linux daily on my laptop (I have dual boot with Kali/Manjaro). I use Windows on my desktop at home. I'm a shell user on all the OS i use, especially Linux, so I'm comfortable using whatever shell or terminal.
 
 <br>
 
