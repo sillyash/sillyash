@@ -19,7 +19,7 @@ I'm currently learning ```Java``` ```JavaScript``` and  ```C++```
 
 [![Ash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyash&theme=blue-green)](https://github.com/sillyash/github-readme-stats)
 
-*Be aware that these statistics don't take most of my private and current projects, as well as what I've studied into account: the large quantity of Python in this chart is mostly due to Highschool projects.*
+*Be aware that these statistics don't take some of my private and school projects that aren't hosted on GitHub.*
 
 
 ## About me
