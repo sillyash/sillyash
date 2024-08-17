@@ -9,37 +9,78 @@
 | ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 | ![image](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | ![image](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) | ![images](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
 
-I'm currently a student of Orsay's IUT (from ```Paris-Saclay``` university), and I study Computer Science! I've also studied computer science in Highschool.
-
-I'm a french native speaker, but I'm as fluent in English, sometimes even better in english when it comes to IT.
-
-I've learned a lot of ```Python``` ```HTML``` and ```CSS```. I also cover the basics of ```C++``` and ```Java```.
-
-I'm currently learning ```Java``` ```JavaScript``` and  ```C++```
+<p style="font-weight: 900;">
+  Hi!
+</p>
+<p>
+  I'm Ashley, a student at Orsay's IUT, from Paris-Saclay university, 
+  and I study computer science. I'm currently in an internship in the 
+  CNRS, at IPSL's research center.
+</p>
 
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sillyash&theme=tokyonight)
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sillyash&theme=tokyonight)
 
-*Be aware that these statistics don't take some of my private and school projects that aren't hosted on GitHub.*
+*Be aware that these statistics don't analyze some of my private and school projects that aren't hosted on GitHub.*
 
 
 ## About me
 
-As you have probably seen, I'm a curious person when it comes to languages, and I want to try a lot of them before I finish my studies. I'm a fast learner and I've noticed that it gets easier the more I learn.
-
-Of course, I'm not aiming to be a very good or expert developer in all of these languages, but learning the basics of a lot of languages might help me figure out which ones I want to work with in the long term.
-
-I'm getting quite good using ```C++``` and it's libraries, but I'm also enjoying ```Java```, which have two very different philosophies for coding.
-
-Frontend developing is quite fun, but I really like backend. However, if I could, I'd choose to make backend and still have a bit of control over frontend: that's why I think WebAssembly and React are extremely efficient and practical tools when it comes to this, and I wish to have the opportunity to learn about them soon.
-
-I've done a lot of ```SQL``` and ```CDM/Database``` construction for school projetcs, as well as installing and setting up a ```MariaDB``` database on a ```Raspberry Pi```.
-
-When it comes to my IT culture, I would say I encourage and like Open Source and Free Software a lot, but I love to participate in anything, really.
-
-I'm both a Windows and GNU/Linux user, and I try to keep up with security and privacy when it comes to technology: that's why I'm using ```Kali``` and ```Arch/Manjaro```.
-
-Concerning the OS I use, I use GNU/linux daily on my laptop (I have dual boot with Kali/Manjaro). I use Windows on my desktop at home. I'm a shell user on all the OS i use, especially Linux, so I'm comfortable using whatever shell or terminal.
+<p>
+  As you already, know, I'm studying CompSci at university, but I've 
+  been studying CompSci since my first year of highschool.
+</p>
+<p>
+  I'm a french native speaker, but I'm quite fluent in English, 
+  sometimes even better in english when it comes to IT slang.
+</p>
+<p>
+  I've learned a lot of Python and <b>Java</b>, but I'm 
+  also resourceful with <b>JavaScript</b> and Bash.
+</p>
+<p>
+  I'm currently learning <b>JavaScript</b>, <b>C</b>, and <b>PHP</b>.
+</p>
+<p>
+  As you have probably seen, I'm a curious person when it comes to languages, 
+  and I want to try a lot of them before I finish my studies. I'm a fast 
+  learner and I've noticed that it gets easier the more I learn.
+</p>
+<p>
+  Of course, I'm not aiming to be a very good or expert developer in all of 
+  these languages, but learning the basics of a lot of languages might help 
+  me figure out which ones I want to work with in the long term.
+</p>
+<p>
+  I'm getting quite good using <b>C++</b> and it's libraries, but I'm 
+  also enjoying <b>Java</b>, which have two very different philosophies.
+</p>
+<p>
+  Frontend developing is quite fun, but I really like backend. However, if 
+  I could, I'd choose to dev in fullstack and I wish to have the opportunity 
+  to learn about fullstack frameworks soon.
+</p>
+<p>
+  I've done a lot of <b>SQL</b> and <b>CDM/Database</b> construction for 
+  school projects, as well as installing and setting up a <b>MariaDB</b> 
+  database on a <b>Raspberry Pi</b> to learn about <b>DevOps</b>.
+</p>
+<p>
+  When it comes to my preferences, I would say I encourage and like Open 
+  Source and Free Software a lot, but I love to participate in anything 
+  interesting, really.
+</p>
+<p>
+  I'm both a Windows and <b>GNU/Linux</b> user, and I try to keep up 
+  with freedom, security and privacy when it comes to technology: that's 
+  why I'm using <b>Debian/Kali</b> and <b>Arch/Manjaro</b> a lot.
+</p>
+<p>
+  Concerning the OS I use, I use <b>GNU/Linux</b> daily on my laptop, 
+  and use Windows on my desktop at home. I use the shell on both 
+  computers, so I'm comfortable with <b>PowerShell</b> and <b>Bash</b> 
+  (sh/zsh).
+</p>
 
 <br>
 
