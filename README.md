@@ -42,7 +42,7 @@ Concerning the OS I use, I use GNU/linux daily on my laptop (I have dual boot wi
 
 <br>
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sillyash)
+![image](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sillyash&theme=tokyonight)
 
 <br>
 
