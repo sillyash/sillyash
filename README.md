@@ -17,7 +17,8 @@ I've learned a lot of ```Python``` ```HTML``` and ```CSS```. I also cover the ba
 
 I'm currently learning ```Java``` ```JavaScript``` and  ```C++```
 
-[![Ash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillyash&theme=blue-green)](https://github.com/sillyash/github-readme-stats)
+![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sillyash&theme=tokyonight)
+![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sillyash&theme=tokyonight)
 
 *Be aware that these statistics don't take some of my private and school projects that aren't hosted on GitHub.*
 
