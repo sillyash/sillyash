@@ -26,61 +26,7 @@
 
 ## About me
 
-<p>
-  As you already, know, I'm studying CompSci at university, but I've 
-  been studying CompSci since my first year of highschool.
-</p>
-<p>
-  I'm a french native speaker, but I'm quite fluent in English, 
-  sometimes even better in english when it comes to IT slang.
-</p>
-<p>
-  I've learned a lot of Python and <b>Java</b>, but I'm 
-  also resourceful with <b>JavaScript</b> and Bash.
-</p>
-<p>
-  I'm currently learning <b>JavaScript</b>, <b>C</b>, and <b>PHP</b>.
-</p>
-<p>
-  As you have probably seen, I'm a curious person when it comes to languages, 
-  and I want to try a lot of them before I finish my studies. I'm a fast 
-  learner and I've noticed that it gets easier the more I learn.
-</p>
-<p>
-  Of course, I'm not aiming to be a very good or expert developer in all of 
-  these languages, but learning the basics of a lot of languages might help 
-  me figure out which ones I want to work with in the long term.
-</p>
-<p>
-  I'm getting quite good using <b>C++</b> and it's libraries, but I'm 
-  also enjoying <b>Java</b>, which have two very different philosophies.
-</p>
-<p>
-  Frontend developing is quite fun, but I really like backend. However, if 
-  I could, I'd choose to dev in fullstack and I wish to have the opportunity 
-  to learn about fullstack frameworks soon.
-</p>
-<p>
-  I've done a lot of <b>SQL</b> and <b>CDM/Database</b> construction for 
-  school projects, as well as installing and setting up a <b>MariaDB</b> 
-  database on a <b>Raspberry Pi</b> to learn about <b>DevOps</b>.
-</p>
-<p>
-  When it comes to my preferences, I would say I encourage and like Open 
-  Source and Free Software a lot, but I love to participate in anything 
-  interesting, really.
-</p>
-<p>
-  I'm both a Windows and <b>GNU/Linux</b> user, and I try to keep up 
-  with freedom, security and privacy when it comes to technology: that's 
-  why I'm using <b>Debian/Kali</b> and <b>Arch/Manjaro</b> a lot.
-</p>
-<p>
-  Concerning the OS I use, I use <b>GNU/Linux</b> daily on my laptop, 
-  and use Windows on my desktop at home. I use the shell on both 
-  computers, so I'm comfortable with <b>PowerShell</b> and <b>Bash</b> 
-  (sh/zsh).
-</p>
+If you want more info, just check out my [website](https://sillyash.github.io) ! It may be outdated but I show you my last updates on each section of the site.
 
 <br>
 
