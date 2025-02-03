@@ -9,6 +9,7 @@
   CNRS, at IPSL's research center.
 </p>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67a08cc2d7c9b4cc8b6bd6ea?variant=dark)](https://roadmap.sh)
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sillyash&theme=tokyonight)
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sillyash&theme=tokyonight)
 
